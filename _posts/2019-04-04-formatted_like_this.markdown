@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "formatted like this"
-date:       2019-04-04 20:15:50 +0000
+date:       2019-04-04 16:15:51 -0400
 permalink:  formatted_like_this
 ---
 
